@@ -9,7 +9,7 @@
 
 const images = [
   // Contoh:
-  // { file: "pagarbojonggede.jpg", title: "Pagar tralis" },
+  // { file: "kanopibojonggede.jpg", title: "Pagar tralis" },
 ];
 
 const videos = [
